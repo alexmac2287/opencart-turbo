@@ -1,12 +1,11 @@
 Opencart Turbo
 ==============
 
-Version: 0.2
-Orignal Code by chrisatomix
-Tweaks from Jay6390
-Continued development by Alex 'Freedom' Haines
-https://www.freedomitsolutions.co.uk
-
+Version: 0.2  
+Orignal Code by chrisatomix  
+Tweaks from Jay6390  
+Continued development by Alex 'Freedom' Haines  
+https://www.freedomitsolutions.co.uk  
 
 This script will apply several changes to boost the performance of OpenCart, including:
 *   DONE: Converting the MySQL DB Storage Engine from MyISAM to InnoDB.
